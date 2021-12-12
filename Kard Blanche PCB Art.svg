@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8906"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="Kard Blanche PCB Art.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8908"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.6405233"
+     inkscape:cx="255.26003"
+     inkscape:cy="540.18332"
+     inkscape:window-width="1920"
+     inkscape:window-height="1087"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8903" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path9001"
+       style="fill:#000000;stroke-width:1.68261;stroke-linecap:round"
+       d="M 58.580741,19.980424 A 28.01838,15.683792 0 0 0 30.562297,35.664221 28.01838,15.683792 0 0 0 58.580741,51.348018 28.01838,15.683792 0 0 0 86.599184,35.664221 28.01838,15.683792 0 0 0 58.580741,19.980424 Z m 17.442862,9.207706 h 1.502751 v 12.706717 h -1.502751 v -1.372008 c -0.315764,0.54442 -0.713084,0.953038 -1.192175,1.225249 -0.479089,0.261321 -1.056079,0.391707 -1.731161,0.391707 -1.110618,0 -2.014604,-0.440957 -2.711461,-1.322916 -0.696859,-0.881962 -1.044898,-2.041589 -1.044898,-3.478858 0,-1.437271 0.348039,-2.596897 1.044898,-3.478858 0.696857,-0.881962 1.600843,-1.322917 2.711461,-1.322917 0.675082,0 1.252072,0.130902 1.731161,0.392224 0.479091,0.261322 0.876411,0.664291 1.192175,1.208712 z m -36.388992,0.506429 h 1.666047 v 5.160925 l 5.454965,-5.160925 h 2.123384 l -6.043041,5.683891 6.483842,6.516397 H 47.147846 L 41.300658,36.03164 v 5.863207 h -1.666047 z m 15.63057,2.841687 c 1.317498,0 2.302587,0.343425 2.955893,1.029395 0.653304,0.685969 0.9803,1.725472 0.9803,3.11919 v 5.210016 h -1.502749 v -1.388028 c -0.337542,0.55531 -0.762069,0.969058 -1.273826,1.241269 -0.511754,0.261321 -1.138026,0.391707 -1.878438,0.391707 -0.936403,-2e-6 -1.682279,-0.261289 -2.237589,-0.783933 -0.54442,-0.533533 -0.816489,-1.240907 -0.816489,-2.122866 0,-1.023512 0.342908,-1.796595 1.02888,-2.31924 0.68597,-0.522642 1.714693,-0.783931 3.086632,-0.783931 h 2.09083 v -0.163297 c 0,-0.68597 -0.228433,-1.214194 -0.685747,-1.5844 -0.446426,-0.381094 -1.078344,-0.571541 -1.894975,-0.571541 -0.522645,0 -1.034439,0.05954 -1.535308,0.179317 -0.500867,0.119773 -0.979808,0.31022 -1.437122,0.571542 V 33.15688 c 0.555311,-0.20688 1.088666,-0.359341 1.60042,-0.457336 0.522645,-0.108884 1.029309,-0.163298 1.519288,-0.163298 z m 11.285617,0 c 0.108884,0 0.223358,0.0056 0.34313,0.01654 0.119774,0.01089 0.255807,0.02732 0.408244,0.04909 l 0.01654,1.551327 c -0.163327,-0.098 -0.348641,-0.168837 -0.555521,-0.21239 -0.195991,-0.04355 -0.413645,-0.06511 -0.653191,-0.06511 -0.849296,0 -1.502772,0.277715 -1.960086,0.833024 -0.446426,0.544421 -0.669726,1.333932 -0.669726,2.368331 v 4.817793 H 61.961416 V 32.74864 h 1.518772 v 1.421102 c 0.304874,-0.555309 0.713491,-0.963409 1.225248,-1.224731 0.511754,-0.27221 1.126731,-0.408761 1.845366,-0.408761 z m 6.90862,1.241268 c -0.794854,0 -1.420607,0.316218 -1.87792,0.947746 -0.446427,0.631527 -0.669727,1.502142 -0.669727,2.612761 0,1.09973 0.2233,1.96573 0.669727,2.597256 0.457313,0.620641 1.083066,0.930693 1.87792,0.930693 0.794855,0 1.421127,-0.310052 1.878438,-0.930693 0.457314,-0.631526 0.685747,-1.497526 0.685747,-2.597256 0,-1.110619 -0.228433,-1.981234 -0.685747,-2.612761 -0.457311,-0.631528 -1.083583,-0.947746 -1.878438,-0.947746 z m -17.247008,3.52795 c -1.208614,0 -2.04689,0.136033 -2.515092,0.408244 -0.468201,0.272211 -0.702283,0.746019 -0.702283,1.421101 0,0.533532 0.174019,0.958061 0.522449,1.273826 0.348429,0.304874 0.82737,0.457335 1.437121,0.457335 0.827519,0 1.491776,-0.293624 1.992643,-0.8816 0.500867,-0.587973 0.751377,-1.372354 0.751377,-2.35231 v -0.326596 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.5729px;line-height:1.25;font-family:'Bahamas YU';-inkscape-font-specification:'Bahamas YU, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.66432"
+       x="91.199219"
+       y="44.902378"
+       id="text2143"><tspan
+         sodipodi:role="line"
+         id="tspan2141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.5729px;font-family:'Bahamas YU';-inkscape-font-specification:'Bahamas YU, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.66432"
+         x="91.199219"
+         y="44.902378">Blanche</tspan></text>
+    <g
+       id="g8303"
+       transform="translate(23.056403,-158.38724)">
+      <ellipse
+         style="fill:#000000;stroke-width:1.68261;stroke-linecap:round"
+         id="path9001-9"
+         cx="35.524338"
+         cy="232.14742"
+         rx="28.018381"
+         ry="15.683792" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.7246px;line-height:1.25;font-family:Chandas;-inkscape-font-specification:'Chandas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#ffffff;stroke-width:0.418116"
+         x="14.945245"
+         y="239.04794"
+         id="text10445-0"><tspan
+           sodipodi:role="line"
+           id="tspan10443-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.7246px;font-family:Chandas;-inkscape-font-specification:'Chandas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.418116"
+           x="14.945245"
+           y="239.04794">Kard</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="31.190594"
+       y="113.67226"
+       id="text7872"><tspan
+         sodipodi:role="line"
+         id="tspan7870"
+         style="stroke-width:0.264583"
+         x="31.190594"
+         y="113.67226">Kard font: Chandas</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="31.190594"
+         y="126.90139"
+         id="tspan7874">Blanche font: Bahamas YU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.5729px;line-height:1.25;font-family:'Bahamas YU';-inkscape-font-specification:'Bahamas YU, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.66432"
+       x="91.199219"
+       y="82.998413"
+       id="text2143-0"><tspan
+         sodipodi:role="line"
+         id="tspan2141-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.5729px;font-family:'Bahamas YU';-inkscape-font-specification:'Bahamas YU, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.66432"
+         x="91.199219"
+         y="82.998413">Blanche</tspan></text>
+  </g>
+</svg>
